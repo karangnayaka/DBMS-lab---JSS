@@ -46,15 +46,6 @@ PARTICIPATED(driver id#:string, regno:string, report_ number: int,damage_amount:
 with report. 
 6. A view that shows models and year of cars that are involved in accident. 
 7. A trigger that prevents a driver from participating in more than 3 accidents in a given year
-2)Create a table for the structure Student with attributes as SID, NAME, 
-BRANCH, SEMESTER, ADDRESS, PHONE, EMAIL, Insert atleast 10 
-tuples and performthe following operationsusing SQL.
-a. Insert a new student
-b. Modify the address of the student based on SID
-c. Delete a student
-d. List all the students
-e. List all the students of CSE branch.
-f. List all the students of CSE branch and reside in Kuvempunagar.
 
 
 3. Consider the database schemas given below.
@@ -130,3 +121,17 @@ number and the number of its employees who are making more than Rs. 6,00,000.
 6. Create a view that shows name, dept name and location of all employees. 
 7. Create a trigger that prevents a project from being deleted if it is currently being worked 
 by any employee
+
+
+
+
+-------
+2)Create a table for the structure Student with attributes as SID, NAME, 
+BRANCH, SEMESTER, ADDRESS, PHONE, EMAIL, Insert atleast 10 
+tuples and performthe following operationsusing SQL.
+a. Insert a new student
+b. Modify the address of the student based on SID
+c. Delete a student
+d. List all the students
+e. List all the students of CSE branch.
+f. List all the students of CSE branch and reside in Kuvempunagar.
